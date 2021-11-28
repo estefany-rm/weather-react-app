@@ -1,30 +1,30 @@
 .Weather {
   border: 1px solid #dadde1;
-  padding: 16px;
-  border-radius: 4px;
+  padding: 20px;
+  border-radius: 6px;
   background: #bae8e8be;
 }
 
 .Weather h1 {
   color: #39a2db;
-  font-size: 45px;
+  font-size: 44px;
   font-weight: 600;
   line-height: 50px;
   margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .btn-primary {
   background-color: #39a2db;
   border-color: #39a2db;
+  border: 2px solid #39a2db;
+  border-radius: 5px;
 }
 
 .Weather li {
   list-style: none;
   font-size: 16px;
   line-height: 19px;
-}
-
-.weather ul {
   margin: 0;
   padding: 0;
 }
@@ -34,19 +34,18 @@
   color: rgb(33, 33, 33);
   font-size: 50px;
   line-height: 64px;
-  margin-left: 5px;
-  font-weight: 400;
   margin-left: 10px;
+  font-weight: 400;
 }
 
 .Weather .unit {
   position: relative;
-  font-size: 16px;
-  top: -15px;
-  margin-left: 5px;
+  font-size: 20px;
+  top: -18px;
+  margin-left: 4px;
 }
 
 .Weather img {
   height: 64px;
-  position: relative;
+  margin-right: 15px;
 }
