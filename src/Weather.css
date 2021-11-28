@@ -1,0 +1,13 @@
+body {
+  font-family: arial, sans-serif;
+  background: #fff3e6;
+}
+
+.Weather {
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  padding: 40px;
+  background: #bae8e8be;
+  max-width: 700px;
+  margin: 40px auto;
+}
